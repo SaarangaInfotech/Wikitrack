@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.saaranga.wikikannada"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="7" />
+
+    <uses-permission android:name="android.permission.INTERNET" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/wikitrack_kannada_theme" >
+        <activity
+            android:name=".ActivityShowCase"
+            android:configChanges="keyboardHidden|screenLayout"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            
+             >
+
+            <!-- android:screenOrientation="portrait" -->
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ActivityRecentChanges"
+            android:configChanges="keyboardHidden|orientation|screenLayout" >
+        </activity>
+        <activity
+            android:name=".ActivityLists"
+            android:configChanges="keyboardHidden|orientation|screenLayout" >
+        </activity>
+        <activity
+            android:name=".ActivityArticleView"
+            android:configChanges="keyboardHidden|orientation|screenLayout" >
+        </activity>
+        <activity
+            android:name=".ActivityMyContributions"
+            android:configChanges="keyboardHidden|orientation|screenLayout" >
+        </activity>
+        <activity
+            android:name=".ActivityMyWatchList"
+            android:configChanges="keyboardHidden|orientation|screenLayout" >
+        </activity>
+        <activity
+            android:name=".ActivityApplicationPreferenceList"
+            android:configChanges="keyboardHidden|orientation|screenLayout"
+            android:label="@string/preferences_activitiy_label"
+            android:theme="@android:style/Theme" >
+        </activity>
+    </application>
+
+</manifest>

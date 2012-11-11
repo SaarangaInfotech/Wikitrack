@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WikiKannadaActivity!</string>
+    <string name="app_name">WikiKannada</string>
+    <string name="kn_recent_changes">ಇತ್ತೀಚೆಗಿನ ಬದಲಾವಣೆಗಳು</string>
+    <string name="kn_my_contributions">ನನ್ನ ಕಾಣಿಕೆಗಳು </string>
+    <string name="kn_my_watchlist">ನನ್ನ ವೀಕ್ಷಣಾಪಟ್ಟಿ </string>
+    <string name="kn_enter_username_title">ನನ್ನ ಕಾಣಿಕೆಗಳು </string>
+    <string name="kn_enter_username_message">ನಿಮ್ಮ ಬಳಕೆಯ ಹೆಸರು(user name) ನೀಡಿ </string>
+    <string name="kn_okay_btn">ಸರಿ</string>
+    <string name="kn_cancel">ಹಿಂದಿರುಗು </string>
+    <string name="wiki_track">"ವಿಕಿ ಟ್ರ್ಯಾಕ್ "</string>
+    <string name="kannada_title">ಕನ್ನಡ</string>
+    <string name="kn_more_apps">"ಮತ್ತಷ್ಟು ತಂತ್ರಾಂಶಗಳು "</string>
+        <string name="en_more_apps">"More Apps "</string>
+    <string name="kn_get_feed">"ಲೋಡ್ ಮಾಡು "</string>
+    <string name="kn_pls_wait">"ನಿರೀಕ್ಷಿಸಿ"</string>
+    <string name="kn_loading">"ಲೋಡ್ ಆಗುತ್ತಿದೆ…"</string>
+    <string name="kn_username_enter">ನಿಮ್ಮ/ಸದಸ್ಯರ ಯೂಸರ್ ನೇಮ್ </string>
+    <string name="kn_username_example">ಉದಾ : supreethks </string>
+    <string name="kn_password_enter">ನಿಮ್ಮ ಪ್ರವೇಶಪದ</string>
+    <string name="kn_mc_notfeed_text">ಡೇಟಾಬೇಸ್ ನಲ್ಲಿ ಯಾವುದೇ ದಾಖಲೆಗಳಿಲ್ಲ. ನಿಮ್ಮ ಅಥವಾ ಇತರೆ ವಿಕಿಪೀಡಿಯ ಸದಸ್ಯರ ಕಾಣಿಕೆಗಳನ್ನು ವೀಕ್ಷಿಸಲು ಯೂಸರ್ ನೇಮ್  ನೀಡಿ.</string>
+    <string name="kn_rc_notfeed_text">ಡೇಟಾಬೇಸ್ ನಲ್ಲಿ ಯಾವುದೇ ದಾಖಲೆಗಳಿಲ್ಲ.</string>
+    <string name="kn_wl_notfeed_text">ಡೇಟಾಬೇಸ್ ನಲ್ಲಿ ಯಾವುದೇ ದಾಖಲೆಗಳಿಲ್ಲ. ನಿಮ್ಮ ವೀಕ್ಷಣಾಪಟ್ಟಿಯನ್ನು ವೀಕ್ಷಿಸಲು ಯೂಸರ್ ನೇಮ್  ಹಾಗೂ ಪಾಸ್ ವರ್ಡ್ ನೀಡಿರಿ. </string>
+    <string name="kn_save_passwrd">"ಪ್ರವೇಶಪದ ನೆನಪಿಟ್ಟುಕೋ "</string>
+    <string name="kn_more_todo">"ಏನು ಮಾಡಬಯಸುವಿರಿ? "</string>
+    <string name="kn_mark_as">ಗುರುತು ಮಾಡು</string>
+    <string name="ಓದಿದೆ ">kn_mark_as_read</string>
+    <string name="ಓದಿಲ್ಲ ">kn_mark_as_unread</string>
+    <string name="kn_app_name">ವಿಕಿ ಟ್ರ್ಯಾಕ್</string>
+    <string name="android_preference:category_sync">ಸಿಂಕ್ ಪ್ರಾಶಸ್ತ್ಯಗಳು </string>
+    <string name="android_preference:category_itemCount">ಫೀಡ್ ಸಂಖ್ಯೆ </string>
+    <string name="android_preferences:default">Default </string>
+    <string name="android_preference:select_font">ಫಾಂಟ್ ಬದಲಿಸು </string>
+ <string name="android_preference:category_font_prefs">ಫಾಂಟ್ ಪ್ರಾಶಸ್ತ್ಯ</string>
+        <string name="android_preference:set_feed_count">ಫೀಡ್ ಸಂಖ್ಯೆ ನಿಗದಿ ಮಾಡು </string>
+    <string name="android_preferences:sync_background">ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಸಿಂಕ್ ಮಾಡು </string>
+    <string name="preferences_activitiy_label">ಪ್ರಾಶಸ್ತ್ಯಗಳು </string>
+    <string name="preferences_sync_interval">ಸಿಂಕ್ ಅವಧಿ </string>
+    <string name="string:how_frequently">ಎಷ್ಟು ತ್ವರಿತವಾಗಿ ಸಿಂಕ್ ಆಗಬೇಕು </string>
+    <string name="preference:feed_count">ಫೀಡ್ ಸಂಖ್ಯೆ </string>
+    <string name="preference:feed_options">ಫೀಡ್ ಆಯ್ಕೆ </string>
+    <string name="stirng:how_many_feed_items_you_want">ಫೀಡ್ ಎಂಟ್ರಿಗಳ ಸಂಖ್ಯೆ ಆಯ್ಕೆ ಮಾಡಿ </string>
+    <string name="String:choose_the_contents_of_feed">ಫೀಡ್ ವಿವರಗಳನ್ನು ಬದಲಿಸಿ </string>
+    
+     <string name="String:wikitrack_text">Wikitrack(kn) </string>
+    
+     <string name="username_hint_text">Username</string>
+    
+     <string name="kn_username">"ನಿಮ್ಮ ಯೂಸರ್ ನೇಮ್ "</string>
+    
+     <string name="password_hint_text">Password</string>
+     <string name="error_msg_in_fetching_feed">Error in fetching feed</string>
+     <string name="error_msg_internet_unavailable">Couldn\'t connect. Check internet connection.</string>
+     <string name="kn_my_contributions_label">ನನ್ನ ಕಾಣಿಕೆಗಳು</string>
+<string name="en_my_contributions_label">My contributions</string>
+<string name="kn_my_watchlist_label">ನನ್ನ ವೀಕ್ಷಣಾಪಟ್ಟಿ</string>
+<string name="en_my_watchlist_label">My watchlist</string>
+<string name="kn_favorite_pages">ನೆಚ್ಚಿನ ಪುಟಗಳು</string>
+<string name="copyright_saaranga_infotech">© Saaranga Infotech</string>
+<string name="en_about_application_summary">About this application</string>
+<string name="en_about_application_title">Application</string>
+<string name="en_about_developer_summary">"About the developer of this application "</string>
+<string name="en_about_developer_title">Developer</string>
+<string name="en_settings">SETTINGS</string>
+<string name="kn_pref_deletedb_title">ಡೇಟಾಬೇಸ್ ಅಳಿಸಿ</string>
+<string name="kn_erase">ಅಳಿಸು</string>
+<string name="kn_return">"ಹಿಂದಿರುಗು "</string>
+<string name="kn_clear_cache">"ಕ್ಲಿಯರ್ ಕ್ಯಾಶ್ "</string>
+<string name="kn_clear_cache_message">ತ್ವರಿತ ಸೇವೆಗೆಂದು ಸೇವ್ ಮಾಡಿದ ವೆಬ್ ಕ್ಯಾಶ್ ಅಳಿಸಲಾಗುವುದು. ಇದರಿಂದ ನಿಮ್ಮ ಅಪ್ಲಿಕೇಶನ್ ಡೇಟಾಬೇಸ್ ಗೆ ಧಕ್ಕೆಯಾಗದು</string>
+<string name="kn_erase_private_data_title">ಖಾಸಗಿ ಮಾಹಿತಿ ಅಳಿಸು</string>
+<string name="kn_erase_private_data_message">ಸೇವ್ ಮಾಡಿದ ಯೂಸರ್ ನೇಮ್ ಹಾಗೂ ಪಾಸ್ ವರ್ಡ್ ಅಳಿಸಲಾಗುವುದು.</string>
+<string name="kn_article_share_message">"ವಿಕಿಟ್ರ್ಯಾಕ್ ಕನ್ನಡ ಆಂಡ್ರಾಯ್ಡ್ ಅಪ್ಲಿಕೇಶನ್ ನಲ್ಲಿ ಓದಿದ್ದು:‌ "</string>
+<string name="en_enter_valid_uname_pswd">Please Enter valid username and password</string>
+
+</resources>

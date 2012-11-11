@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/activitiy_header_height"
+            android:background="@drawable/menu_header" >
+
+            <ImageView
+                android:id="@+id/rc_home"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/menu_item_background"
+                android:src="@drawable/ic_menu_home_custom" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="@dimen/header_title_width"
+                android:layout_height="@dimen/header_title_height"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/rc_home"
+                android:src="@drawable/wikitrack_header_title" />
+
+            <!-- <TextView -->
+            <!-- android:id="@+id/activity_rmy_contributions_header_title" -->
+            <!-- style="@style/menu_title" -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_centerVertical="true" -->
+            <!-- android:layout_toRightOf="@+id/rc_home" -->
+            <!-- android:text="@string/kn_my_contributions" -->
+            <!-- android:textSize="20sp" /> -->
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/mc_tv1"
+            style="@style/activity_label_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:text="@string/kn_my_contributions_label"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/mc_tv2"
+            style="@style/activity_label_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:text="@string/en_my_contributions_label"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:id="@+id/text_container"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:background="@drawable/text_background"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/mc_tv3"
+                style="@style/username_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/kn_mc_notfeed_text"
+                android:textColor="@color/black"
+                android:textSize="@dimen/instruction_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/username_area"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/text_outline_background"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/mc_tv4"
+                style="@style/username_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/kn_username_enter"
+                android:textColor="@color/black" />
+
+            <EditText
+                android:id="@+id/username_box"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:hint="@string/username_hint_text" >
+
+                <requestFocus />
+            </EditText>
+
+            <TextView
+                android:id="@+id/mc_tv5"
+                style="@style/username_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/kn_username_example"
+                android:textColor="@color/grey"
+                android:textSize="14sp" />
+
+            <Button
+                android:id="@+id/activity_my_contributions_btn_default"
+                style="@style/wiki_items_button"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/activitiy_header_height"
+                android:layout_margin="10dp"
+                android:background="@drawable/menu_header"
+                android:text="@string/kn_get_feed"
+                android:textSize="20dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

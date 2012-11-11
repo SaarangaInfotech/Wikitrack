@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- <PreferenceCategory -->
+    <!-- android:key="category_sync" -->
+    <!-- android:title="@string/android_preference:category_sync" > -->
+    <!-- <CheckBoxPreference -->
+    <!-- android:enabled="true" -->
+    <!-- android:key="sync_in_background" -->
+    <!-- android:selectable="true" -->
+    <!-- android:shouldDisableView="true" -->
+    <!-- android:summary="ಫೀಡ್ ತನ್ನಿಂತಾನೆ ರಿಫ್ರೆಶ್ ಆಗಲು ಈ ಆಯ್ಕೆ ಬಳಸಿ " -->
+    <!-- android:title="@string/android_preferences:sync_background" /> -->
+
+
+    <!-- <ListPreference -->
+    <!-- android:dependency="sync_in_background" -->
+    <!-- android:entries="@array/sync_intervel" -->
+    <!-- android:entryValues="@array/sync_intervel_values" -->
+    <!-- android:key="refresh_interval" -->
+    <!-- android:negativeButtonText="@string/kn_cancel" -->
+    <!-- android:shouldDisableView="true" -->
+    <!-- android:summary="@string/string:how_frequently" -->
+    <!-- android:title="@string/preferences_sync_interval" android:defaultValue="86400000"/> -->
+    <!-- <ListPreference -->
+    <!-- android:dependency="sync_in_background" -->
+    <!-- android:entries="@array/feed_count" -->
+    <!-- android:entryValues="@array/feed_count_value" -->
+    <!-- android:key="preference_item_count" -->
+
+
+    <!-- android:summary="@string/stirng:how_many_feed_items_you_want" -->
+    <!-- android:title="@string/preference:feed_count" android:defaultValue="50"/> -->
+    <!-- </PreferenceCategory> -->
+
+    <PreferenceCategory
+        android:key="category_setCount"
+        android:title="@string/android_preference:category_itemCount" >
+        <CheckBoxPreference
+            android:enabled="true"
+            android:key="set_database_itemcount"
+            android:selectable="true"
+            android:shouldDisableView="true"
+            android:summaryOff="Default"
+            android:summaryOn="ಎಷ್ಟು ಫೀಡುಗಳನ್ನು ಡೇಟಾಬೇಸಿನಲ್ಲಿಡಬೇಕು ಎಂದು ಆಯ್ಕೆ ಮಾಡಿ."
+            android:title="@string/android_preference:set_feed_count" />
+
+        <ListPreference
+            android:defaultValue="50"
+            android:dependency="set_database_itemcount"
+            android:entries="@array/feed_count"
+            android:entryValues="@array/feed_count_value"
+            android:key="feed_count_recent_changes"
+            android:negativeButtonText="@string/kn_cancel"
+            android:shouldDisableView="true"
+            android:title="@string/kn_recent_changes" />
+        <ListPreference
+            android:defaultValue="50"
+            android:dependency="set_database_itemcount"
+            android:entries="@array/feed_count"
+            android:entryValues="@array/feed_count_value"
+            android:key="feed_count_watch_list"
+            android:negativeButtonText="@string/kn_cancel"
+            android:shouldDisableView="true"
+            android:title="@string/kn_my_watchlist" />
+        <ListPreference
+            android:defaultValue="50"
+            android:dependency="set_database_itemcount"
+            android:entries="@array/feed_count"
+            android:entryValues="@array/feed_count_value"
+            android:key="feed_count_mycontributions"
+            android:negativeButtonText="@string/kn_cancel"
+            android:shouldDisableView="true"
+            android:title="@string/kn_my_contributions" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="category_select_font"
+        android:title="@string/android_preference:category_font_prefs" >
+        <ListPreference
+            android:defaultValue="0"
+            android:entries="@array/fonts"
+            android:entryValues="@array/fonts_value"
+            android:key="select_font"
+            android:negativeButtonText="@string/kn_cancel"
+            android:shouldDisableView="true"
+            android:summary="ಅಪ್ಲಿಕೇಶನ್ನಿನ ಫಾಂಟನ್ನು ಬದಲಿಸಿ"
+            android:title="@string/android_preference:select_font" />
+    </PreferenceCategory>
+    
+    
+    <PreferenceCategory
+        android:key="category_clear_data"
+        android:title="ಡೇಟಾ ಅಳಿಸಿ" >
+        <Preference
+            android:key="erase_private_data"
+            android:selectable="true"
+            android:summary="ಸೇವ್ ಮಾಡಿಕೊಂಡ ಯೂಸರ್ ನೇಮ್ ಪಾಸ್ ವರ್ಡ್ ಅಳಿಸು "
+            android:title="ಖಾಸಗಿ ಮಾಹಿತಿ  " />
+        
+             <Preference
+            android:key="erase_cache_data"
+            android:selectable="true"
+            android:summary="ವೆಬ್ ಕ್ಯಾಶ್ ಕ್ಲಿಯರ್ ಮಾಡಿ  "
+            android:title="ವೆಬ್ ಕ್ಯಾಶ್" />
+             
+               <Preference
+            android:key="delete_database"
+            android:selectable="true"
+            android:summary="ನಿಮ್ಮ ಅಪ್ಲಿಕೇಶನ್ ಫೀಡ್ ಡೇಟಾಬೇಸ್ ಅಳಿಸಿ. ನಿಮ್ಮ ನೆಚ್ಚಿನ ಪುಟಗಳು ಆಯ್ಕೆಗಳೆಲ್ಲ ಅಳಿಸಲ್ಪಡುವವು ಎಚ್ಚರಿಕೆಯಿಂದ ಮುಂದುವರೆಯಿರಿ."
+            android:title="ಡೇಟಾಬೇಸ್ "/>
+    </PreferenceCategory>
+    
+        <PreferenceCategory
+        android:key="category_about"
+        android:title="About" >
+        <Preference
+            android:key="about_developer"
+            android:selectable="true"
+            android:summary="@string/en_about_developer_summary"
+            android:title="@string/en_about_developer_title" />
+
+             <Preference
+            android:key="about_application"
+            android:selectable="true"
+            android:summary="@string/en_about_application_summary"
+            android:title="@string/en_about_application_title" />
+             
+                <Preference
+            android:key="about_version"
+            android:selectable="false"
+            android:enabled="false"
+            android:summary="1.0 "
+            android:title="Application version" />
+        
+        
+    </PreferenceCategory>
+
+</PreferenceScreen>

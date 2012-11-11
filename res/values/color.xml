@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	<color name="test_text_color">#784421</color>
+    <color name="test_text_author_color">#aa4400</color> 
+    
+     <color name="black">#000000</color>
+     <color name="grey">#808080</color>
+     <color name="white">#ffffff</color>
+     <color name="articleview_header_bckgrnd">#f2f2f2</color>
+     <color name="backgrnd_dark">#ffd3b4</color>
+     <color name="textview_bckgrnd">#deaa87</color>
+     <color name="header_background">#d38d5f</color>
+     <color name="activity_header_backgrnd">#d38d5f</color>
+     <color name="activity_background">#d7eef4</color>
+     <color name="transperant_black">#99000000</color>
+     <color name="transperant_float_container">#33000000</color>
+     <color name="transperant_float_container_text">#333333</color>
+     <color name="transperant_help_dialog">#99000000</color>
+</resources>
