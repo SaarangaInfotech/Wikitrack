@@ -1,0 +1,2941 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="wikitrack_layout.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3247">
+      <stop
+         style="stop-color:#5d9eff;stop-opacity:1;"
+         offset="0"
+         id="stop3249" />
+      <stop
+         style="stop-color:#5d9eff;stop-opacity:0;"
+         offset="1"
+         id="stop3251" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6423">
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1;"
+         offset="0"
+         id="stop6425" />
+      <stop
+         style="stop-color:#5599ff;stop-opacity:0;"
+         offset="1"
+         id="stop6427" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4200">
+      <stop
+         style="stop-color:#0055d4;stop-opacity:1;"
+         offset="0"
+         id="stop4202" />
+      <stop
+         style="stop-color:#0055d4;stop-opacity:0;"
+         offset="1"
+         id="stop4204" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3832">
+      <stop
+         style="stop-color:#b5d0ed;stop-opacity:1;"
+         offset="0"
+         id="stop3834" />
+      <stop
+         style="stop-color:#b5d0ed;stop-opacity:0;"
+         offset="1"
+         id="stop3836" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective4515"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6706">
+      <rect
+         style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none"
+         id="rect6708"
+         width="449.80469"
+         height="123.43751"
+         x="-44.805305"
+         y="2960.3936" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6710">
+      <rect
+         style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none"
+         id="rect6712"
+         width="449.80469"
+         height="123.43751"
+         x="184.25847"
+         y="2959.9561" />
+    </clipPath>
+    <linearGradient
+       gradientTransform="matrix(-0.9073029,0,0,-0.9073029,198.27521,78.020366)"
+       y2="34.128418"
+       x2="2698.875"
+       y1="74.281982"
+       x1="2696.0972"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient7346-5-4"
+       xlink:href="#linearGradient7321-9-0-4"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7321-9-0-4">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop7323-1-3-2" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop7325-9-7-8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7321-4-7"
+       id="linearGradient7327-0-9"
+       x1="2696.0972"
+       y1="74.281982"
+       x2="2698.875"
+       y2="34.128418"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9073029,0,0,0.9073029,-4725.2303,-58.965233)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7321-4-7">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop7323-9-2" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop7325-4-0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4030-9-1-1-4-9-4"
+       id="linearGradient4784-0-0-1-3-8-3"
+       gradientUnits="userSpaceOnUse"
+       x1="-1458.4336"
+       y1="-735.19318"
+       x2="-1266.5"
+       y2="-735.19318" />
+    <linearGradient
+       id="linearGradient4030-9-1-1-4-9-4"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4032-2-37-3-4-00-0" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter4626-5-5-3-8-2"
+       x="-0.069807529"
+       width="1.1396151"
+       y="-0.23846905"
+       height="1.4769381"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.8217285"
+         id="feGaussianBlur4628-0-0-8-2-6" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4030-9-2-0-0-9-6-14"
+       id="linearGradient4784-0-5-9-8-1-25-0"
+       gradientUnits="userSpaceOnUse"
+       x1="-1458.4336"
+       y1="-735.19318"
+       x2="-1266.5"
+       y2="-735.19318" />
+    <linearGradient
+       id="linearGradient4030-9-2-0-0-9-6-14"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4032-2-3-4-4-8-21-5" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2963-5-8-3">
+      <rect
+         style="fill:#d58e5d;fill-opacity:1;stroke:none"
+         id="rect2965-45-1-6"
+         width="482.85291"
+         height="39.39595"
+         x="371.73615"
+         y="-67.896988" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective2986"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2963-5-8-3-6">
+      <rect
+         style="fill:#d58e5d;fill-opacity:1;stroke:none"
+         id="rect2965-45-1-6-7"
+         width="482.85291"
+         height="39.39595"
+         x="371.73615"
+         y="-67.896988" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective3014"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3810"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3832"
+       id="linearGradient3838"
+       x1="267.85715"
+       y1="678.79077"
+       x2="267.85715"
+       y2="621.263"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-539.42146,23.375644)" />
+    <inkscape:perspective
+       id="perspective3848"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       gradientTransform="translate(-537.99289,132.66136)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient3832-3"
+       id="linearGradient3838-5"
+       x1="267.85715"
+       y1="678.79077"
+       x2="267.85715"
+       y2="621.263"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3832-3">
+      <stop
+         style="stop-color:#b5d0ed;stop-opacity:1;"
+         offset="0"
+         id="stop3834-5" />
+      <stop
+         style="stop-color:#b5d0ed;stop-opacity:0;"
+         offset="1"
+         id="stop3836-1" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective3848-2"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3832-5">
+      <stop
+         style="stop-color:#b5d0ed;stop-opacity:1;"
+         offset="0"
+         id="stop3834-2" />
+      <stop
+         style="stop-color:#b5d0ed;stop-opacity:0;"
+         offset="1"
+         id="stop3836-3" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective3990"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4064"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4096"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4118"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4149"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4220"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4251"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4282"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4342"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4373"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4395"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4426"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3832-5"
+       id="linearGradient4450"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-524.44249,-84.308173)"
+       x1="267.85715"
+       y1="678.79077"
+       x2="267.85715"
+       y2="621.263" />
+    <inkscape:perspective
+       id="perspective3051"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3073"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2963-5-8-3-6-0">
+      <rect
+         style="fill:#d58e5d;fill-opacity:1;stroke:none"
+         id="rect2965-45-1-6-7-1"
+         width="482.85291"
+         height="39.39595"
+         x="371.73615"
+         y="-67.896988" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective3105"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2963-5-8-3-6-0-6">
+      <rect
+         style="fill:#d58e5d;fill-opacity:1;stroke:none"
+         id="rect2965-45-1-6-7-1-2"
+         width="482.85291"
+         height="39.39595"
+         x="371.73615"
+         y="-67.896988" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective3177"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3832-5-5"
+       id="linearGradient4450-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-44.285717,-767.60455)"
+       x1="267.85715"
+       y1="678.79077"
+       x2="267.85715"
+       y2="621.263" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3832-5-5">
+      <stop
+         style="stop-color:#b5d0ed;stop-opacity:1;"
+         offset="0"
+         id="stop3834-2-5" />
+      <stop
+         style="stop-color:#b5d0ed;stop-opacity:0;"
+         offset="1"
+         id="stop3836-3-9" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective3226"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3248"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       inkscape:collect="always"
+       id="filter4034"
+       x="-0.12"
+       width="1.24"
+       y="-0.12"
+       height="1.24">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10"
+         id="feGaussianBlur4036" />
+    </filter>
+    <inkscape:perspective
+       id="perspective4046"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4105"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4188-96"
+       id="linearGradient4194-9"
+       x1="320.21835"
+       y1="909.93066"
+       x2="320.21835"
+       y2="820.85577"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97863768,0,0,1,-41.774171,-144.19925)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4188-96">
+      <stop
+         style="stop-color:#445500;stop-opacity:1;"
+         offset="0"
+         id="stop4190-5" />
+      <stop
+         style="stop-color:#445500;stop-opacity:0;"
+         offset="1"
+         id="stop4192-8" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective4105-3"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4188-5"
+       id="linearGradient4194-2"
+       x1="320.21835"
+       y1="909.93066"
+       x2="320.21835"
+       y2="820.85577"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97863768,0,0,1,-41.77417,-252.28557)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4188-5">
+      <stop
+         style="stop-color:#445500;stop-opacity:1;"
+         offset="0"
+         id="stop4190-72" />
+      <stop
+         style="stop-color:#445500;stop-opacity:0;"
+         offset="1"
+         id="stop4192-2" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective4105-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4188-52"
+       id="linearGradient4194-6"
+       x1="320.21835"
+       y1="909.93066"
+       x2="320.21835"
+       y2="820.85577"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97863768,0,0,1,-38.743713,-365.42266)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4188-52">
+      <stop
+         style="stop-color:#445500;stop-opacity:1;"
+         offset="0"
+         id="stop4190-9" />
+      <stop
+         style="stop-color:#445500;stop-opacity:0;"
+         offset="1"
+         id="stop4192-4" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective4216"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4285"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4188-52-7"
+       id="linearGradient4194-6-4"
+       x1="320.21835"
+       y1="909.93066"
+       x2="320.21835"
+       y2="820.85577"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97863768,0,0,1,234.74062,-1176.7365)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4188-52-7">
+      <stop
+         style="stop-color:#445500;stop-opacity:1;"
+         offset="0"
+         id="stop4190-9-9" />
+      <stop
+         style="stop-color:#445500;stop-opacity:0;"
+         offset="1"
+         id="stop4192-4-8" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective4334"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4200-6"
+       id="linearGradient4206-2"
+       x1="321.73358"
+       y1="943.77081"
+       x2="321.73358"
+       y2="879.42755"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0911185,0,0,1,757.44803,-1099.5021)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4200-6">
+      <stop
+         style="stop-color:#0055d4;stop-opacity:1;"
+         offset="0"
+         id="stop4202-6" />
+      <stop
+         style="stop-color:#0055d4;stop-opacity:0;"
+         offset="1"
+         id="stop4204-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4200"
+       id="linearGradient3169"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.5355339,-63.63961)"
+       x1="321.73358"
+       y1="943.77081"
+       x2="321.73358"
+       y2="879.42755" />
+    <inkscape:perspective
+       id="perspective3179"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3235"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3832-5-3"
+       id="linearGradient4450-67"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-524.44249,-84.308173)"
+       x1="267.85715"
+       y1="678.79077"
+       x2="267.85715"
+       y2="621.263" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3832-5-3">
+      <stop
+         style="stop-color:#b5d0ed;stop-opacity:1;"
+         offset="0"
+         id="stop3834-2-6" />
+      <stop
+         style="stop-color:#b5d0ed;stop-opacity:0;"
+         offset="1"
+         id="stop3836-3-0" />
+    </linearGradient>
+    <linearGradient
+       y2="621.263"
+       x2="267.85715"
+       y1="678.79077"
+       x1="267.85715"
+       gradientTransform="translate(-524.44249,-84.308173)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3246"
+       xlink:href="#linearGradient3832-5-3"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective3289"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3343"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3386"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       inkscape:collect="always"
+       id="filter4199">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.5316997"
+         id="feGaussianBlur4201" />
+    </filter>
+    <inkscape:perspective
+       id="perspective6249"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8307-9-3-4"
+       id="linearGradient10639-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(122.15387,-280.59112)"
+       x1="1258.5238"
+       y1="168.0999"
+       x2="1258.5239"
+       y2="164.05928" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8307-9-3-4">
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:1;"
+         offset="0"
+         id="stop8309-3-1-8" />
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:0;"
+         offset="1"
+         id="stop8311-8-6-2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8307-9-5-2-2"
+       id="linearGradient10635-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(122.17057,-271.05542)"
+       x1="1258.5238"
+       y1="168.0999"
+       x2="1258.5239"
+       y2="164.05928" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8307-9-5-2-2">
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:1;"
+         offset="0"
+         id="stop8309-3-7-6-0" />
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:0;"
+         offset="1"
+         id="stop8311-8-4-2-59" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective6340"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8413-26-4-1"
+       id="linearGradient10632-2-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(176.31753,-402.61357)"
+       x1="1276.4286"
+       y1="194.14789"
+       x2="1282.281"
+       y2="200.00032" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8413-26-4-1">
+      <stop
+         style="stop-color:#ffe6d5;stop-opacity:1;"
+         offset="0"
+         id="stop8415-9-3-7" />
+      <stop
+         style="stop-color:#ffe6d5;stop-opacity:0;"
+         offset="1"
+         id="stop8417-9-6-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8307-9-5-2-2-9"
+       id="linearGradient10635-3-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(176.81343,-383.91257)"
+       x1="1258.5238"
+       y1="168.0999"
+       x2="1258.5239"
+       y2="164.05928" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8307-9-5-2-2-9">
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:1;"
+         offset="0"
+         id="stop8309-3-7-6-0-2" />
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:0;"
+         offset="1"
+         id="stop8311-8-4-2-59-2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8307-9-3-4-7"
+       id="linearGradient10639-4-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(176.79673,-393.44827)"
+       x1="1258.5238"
+       y1="168.0999"
+       x2="1258.5239"
+       y2="164.05928" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8307-9-3-4-7">
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:1;"
+         offset="0"
+         id="stop8309-3-1-8-1" />
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:0;"
+         offset="1"
+         id="stop8311-8-6-2-4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8307-6-3-3"
+       id="linearGradient10642-1-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(176.86953,-402.65007)"
+       x1="1258.5238"
+       y1="168.0999"
+       x2="1258.5239"
+       y2="164.05928" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8307-6-3-3">
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:1;"
+         offset="0"
+         id="stop8309-2-35-7" />
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:0;"
+         offset="1"
+         id="stop8311-3-0-2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6423"
+       id="linearGradient6429"
+       x1="1388.6608"
+       y1="-120.94138"
+       x2="1388.6608"
+       y2="-125.92524"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0030936,0.00484118,0.62643491)" />
+    <inkscape:perspective
+       id="perspective6439"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6423-3"
+       id="linearGradient6429-6"
+       x1="1388.6608"
+       y1="-120.94138"
+       x2="1388.6608"
+       y2="-125.92524"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6423-3">
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1;"
+         offset="0"
+         id="stop6425-6" />
+      <stop
+         style="stop-color:#5599ff;stop-opacity:0;"
+         offset="1"
+         id="stop6427-5" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(1,0,0,1.003867,0.00491387,9.8549999)"
+       y2="-125.92524"
+       x2="1388.6608"
+       y1="-120.94138"
+       x1="1388.6608"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6448"
+       xlink:href="#linearGradient6423-3"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective6439-3"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6423-38"
+       id="linearGradient6429-5"
+       x1="1388.6608"
+       y1="-120.94138"
+       x2="1388.6608"
+       y2="-125.92524"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6423-38">
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1;"
+         offset="0"
+         id="stop6425-69" />
+      <stop
+         style="stop-color:#5599ff;stop-opacity:0;"
+         offset="1"
+         id="stop6427-0" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(1,0,0,1.0061872,0.00485747,19.072921)"
+       y2="-125.92524"
+       x2="1388.6608"
+       y1="-120.94138"
+       x1="1388.6608"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6448-7"
+       xlink:href="#linearGradient6423-38"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3247"
+       id="linearGradient3253"
+       x1="1397.7678"
+       y1="-95.762817"
+       x2="1403.8623"
+       y2="-89.668335"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       id="perspective3263"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       gradientTransform="translate(10.24475,-78.766481)"
+       y2="-125.92524"
+       x2="1388.6608"
+       y1="-120.94138"
+       x1="1388.6608"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6448-7-8"
+       xlink:href="#linearGradient6423-38-6"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6423-38-6">
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1;"
+         offset="0"
+         id="stop6425-69-7" />
+      <stop
+         style="stop-color:#5599ff;stop-opacity:0;"
+         offset="1"
+         id="stop6427-0-5" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(10.60199,-87.864701)"
+       y2="-125.92524"
+       x2="1388.6608"
+       y1="-120.94138"
+       x1="1388.6608"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6448-1"
+       xlink:href="#linearGradient6423-3-9"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6423-3-9">
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1;"
+         offset="0"
+         id="stop6425-6-1" />
+      <stop
+         style="stop-color:#5599ff;stop-opacity:0;"
+         offset="1"
+         id="stop6427-5-9" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(10.06138,-97.698754)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient3247-3"
+       id="linearGradient3253-9"
+       x1="1397.7678"
+       y1="-95.762817"
+       x2="1403.8623"
+       y2="-89.668335"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3247-3">
+      <stop
+         style="stop-color:#5d9eff;stop-opacity:1;"
+         offset="0"
+         id="stop3249-7" />
+      <stop
+         style="stop-color:#5d9eff;stop-opacity:0;"
+         offset="1"
+         id="stop3251-8" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(10.06138,-97.698754)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient6423-5"
+       id="linearGradient6429-2"
+       x1="1388.6608"
+       y1="-120.94138"
+       x2="1388.6608"
+       y2="-125.92524"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6423-5">
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1;"
+         offset="0"
+         id="stop6425-65" />
+      <stop
+         style="stop-color:#5599ff;stop-opacity:0;"
+         offset="1"
+         id="stop6427-51" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective4128"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       gradientTransform="matrix(1,0,0,1.0061872,-106.57214,-74.958573)"
+       y2="-125.92524"
+       x2="1388.6608"
+       y1="-120.94138"
+       x1="1388.6608"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6448-7-1"
+       xlink:href="#linearGradient6423-38-8"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6423-38-8">
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1;"
+         offset="0"
+         id="stop6425-69-4" />
+      <stop
+         style="stop-color:#5599ff;stop-opacity:0;"
+         offset="1"
+         id="stop6427-0-8" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(1,0,0,1.003867,-106.57204,-84.176493)"
+       y2="-125.92524"
+       x2="1388.6608"
+       y1="-120.94138"
+       x1="1388.6608"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6448-0"
+       xlink:href="#linearGradient6423-3-3"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6423-3-3">
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1;"
+         offset="0"
+         id="stop6425-6-7" />
+      <stop
+         style="stop-color:#5599ff;stop-opacity:0;"
+         offset="1"
+         id="stop6427-5-1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-106.57694,-94.03149)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient3247-1"
+       id="linearGradient3253-6"
+       x1="1397.7678"
+       y1="-95.762817"
+       x2="1403.8623"
+       y2="-89.668335"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3247-1">
+      <stop
+         style="stop-color:#5d9eff;stop-opacity:1;"
+         offset="0"
+         id="stop3249-1" />
+      <stop
+         style="stop-color:#5d9eff;stop-opacity:0;"
+         offset="1"
+         id="stop3251-0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6423-2"
+       id="linearGradient6429-62"
+       x1="1388.6608"
+       y1="-120.94138"
+       x2="1388.6608"
+       y2="-125.92524"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0030936,-106.57214,-93.40505)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6423-2">
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1;"
+         offset="0"
+         id="stop6425-691" />
+      <stop
+         style="stop-color:#5599ff;stop-opacity:0;"
+         offset="1"
+         id="stop6427-1" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective4219"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4270"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4303"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4430"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4501"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4515-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3351"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3382"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3449"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="2035.0244"
+     inkscape:cy="533.91811"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1368"
+     inkscape:window-height="692"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="1357.3214,1176.7857"
+       id="guide6469" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="808.5,1184.5"
+       id="guide4254" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="848.52813,1389.4648"
+       id="guide4256" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="887,1128.5"
+       id="guide4258" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1233.1942,1184.5"
+       id="guide4260" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="643,1225"
+       id="guide4571" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#800000;fill-opacity:1;stroke:#999999;stroke-width:0.10000000000000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.99537036000000001;stroke-dasharray:none"
+       id="rect3333"
+       width="581.24176"
+       height="334.46152"
+       x="702.86414"
+       y="732.04279" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4078-7"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;fill-opacity:1;stroke:none;font-family:Kedage;-inkscape-font-specification:Kedage"
+       transform="matrix(0.92609656,0,0,0.92609656,478.69609,538.89172)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/kannada_title.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4080-1"><rect
+           id="rect4082-5"
+           width="367.14285"
+           height="147.14284"
+           x="571.42859"
+           y="286.64789"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Kedage;-inkscape-font-specification:Kedage" /></flowRegion><flowPara
+         id="flowPara4084-2"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Kedage;-inkscape-font-specification:Kedage">ಕನ್ನಡ </flowPara></flowRoot>    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect3346"
+       width="61.177345"
+       height="45.330597"
+       x="1438.9855"
+       y="-137.52644" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.89309579;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3213-6-93-3-3-9"
+       width="480"
+       height="799.10693"
+       x="49.156139"
+       y="95.204514" />
+    <rect
+       style="fill:#d7eef4;fill-opacity:1;stroke:none"
+       id="rect3028-2-5-4"
+       width="477.14288"
+       height="757.14282"
+       x="49.999989"
+       y="135.21935"
+       ry="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.89309579;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3213-6-93-3-3"
+       width="480"
+       height="799.10693"
+       x="-2709.3921"
+       y="-52.71236" />
+    <image
+       y="-67.876587"
+       x="373.16263"
+       id="image2957-3-0-2"
+       height="800"
+       width="480"
+       xlink:href="file:///home/supreeth/Pictures/device-2012-01-30-104435.png"
+       clip-path="url(#clipPath2963-5-8-3)"
+       transform="translate(-3082.2003,13.687266)" />
+    <rect
+       style="fill:#ffccaa;fill-opacity:1;stroke:none"
+       id="rect2967-7-7-7"
+       width="480"
+       height="760"
+       x="-2707.9146"
+       y="-13.950637" />
+    <rect
+       style="fill:#d38d5f;fill-opacity:1;stroke:none"
+       id="rect3775-0-7-0"
+       width="480"
+       height="50"
+       x="-2709.3821"
+       y="-15.351027" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4022-4-9-4-1-8-2-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.67381975;fill:#ffccaa;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4626-5-5-3-8-2);font-family:Sans"
+       transform="matrix(1.1316306,0,0,1.1530041,-984.26389,866.94227)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/Sampada-shravya-lite/Drawables/Draft1/shravya_logo_white_bckgrnd.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4024-0-8-2-5-0-1-4"
+         style="stroke:url(#linearGradient4784-0-5-9-8-1-25-0)"><rect
+           id="rect4026-5-5-2-0-6-4-8"
+           width="425.67828"
+           height="115.96552"
+           x="-1460.8826"
+           y="-757.83118"
+           style="fill:#ffccaa;stroke:none" /></flowRegion><flowPara
+         id="flowPara4028-9-1-1-8-7-1-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffccaa;stroke:none;font-family:Kedage;-inkscape-font-specification:Kedage">ಸಂಪದ</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4022-4-7-5-6-1-8"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#803300;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="matrix(1.1316306,0,0,1.1530041,-985.82259,864.43887)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/Sampada-shravya-lite/Drawables/Draft1/shravya_logo_white_bckgrnd.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4024-0-5-9-1-3-6"
+         style="stroke:url(#linearGradient4784-0-0-1-3-8-3)"><rect
+           id="rect4026-5-6-3-3-6-29"
+           width="425.67828"
+           height="115.96552"
+           x="-1460.8826"
+           y="-757.83118"
+           style="fill:#803300;stroke:none" /></flowRegion><flowPara
+         id="flowPara4028-9-5-4-0-38-26"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#803300;stroke:none;font-family:Kedage;-inkscape-font-specification:Kedage">ಸಂಪದ</flowPara></flowRoot>    <path
+       style="fill:url(#linearGradient7327-0-9);fill-opacity:1;stroke:#000000;stroke-width:0.90730292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -2282.2614,10.263967 7.1031,0 c 4.5491,-19.6489002 16.3049,-13.0714002 19.1176,-11.03760016 l -4.5377,4.53769996 15.665,0 0,-13.6635 -4.5826,4.5826 c -9.2007,-5.0109998 -28.1253,-11.0756998 -32.7654,15.5808002 z"
+       id="path7297-6-3"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:url(#linearGradient7346-5-4);fill-opacity:1;stroke:#000000;stroke-width:0.90730292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -2244.6938,8.7910668 -7.103,0 c -4.5491,19.6488992 -16.3049,13.0713992 -19.1177,11.0375992 l 4.5378,-4.5377 -15.6651,0 0,13.6633 4.5827,-4.5825 c 9.2006,5.0111 28.1253,11.0758 32.7653,-15.5806992 z"
+       id="path7297-2-6-2"
+       sodipodi:nodetypes="cccccccc" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="rect7371-3-7"
+       width="0.71428573"
+       height="40.714287"
+       x="-2298.0325"
+       y="-11.742141" />
+    <image
+       y="-10.884963"
+       x="-2700.7466"
+       id="image6228-5-0"
+       height="42.571426"
+       width="50.134876"
+       xlink:href="file:///home/supreeth/Dropbox/Projects/SampadaPro/Images/bookreview.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4442-7-3-5-3-2-4"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       transform="matrix(0.68087576,0,0,0.69373574,-1887.8248,-557.13783)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/Sampada-shravya-lite/Drawables/Draft1/shravya_logo_white_bckgrnd.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4444-2-5-9-93-3-0"><rect
+           id="rect4446-4-6-6-3-7-5"
+           width="302.10861"
+           height="49.882061"
+           x="-903.6825"
+           y="809.11743" /></flowRegion><flowPara
+         id="flowPara4448-1-5-7-4-2-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GIST-KNOTLakshmi;-inkscape-font-specification:GIST-KNOTLakshmi Bold">ಪುಸ್ತಕ ವಿಮರ್ಶೆ </flowPara></flowRoot>    <rect
+       style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none"
+       id="rect5810"
+       width="225.00002"
+       height="184.37502"
+       x="-2697.5947"
+       y="44.763466" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5684-7"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.182959,0,0,1.1473233,-2911.5811,-2314.9801)"><flowRegion
+         id="flowRegion5686-4"><rect
+           id="rect5688-1"
+           width="177.35678"
+           height="123.58331"
+           x="192.18752"
+           y="2072.6748" /></flowRegion><flowPara
+         id="flowPara5690-6">ಹೊಸ ಪುಸ್ತಕ: ಗುಡ್ ಅರ್ಥ್ ಎಂಬ ಕೃಷಿ ಪ್ರಧಾನವಾದ ನೊಬೆಲ್ ಪುರಸ್ಕೃತ ಕಾದಂಬರಿ </flowPara></flowRoot>    <rect
+       style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none"
+       id="rect5843"
+       width="223.40427"
+       height="62.500004"
+       x="-2695.999"
+       y="165.07597" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.72927475px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-2659.0259"
+       y="217.4474"
+       id="text5692-0"
+       transform="scale(1.0105823,0.98952851)"><tspan
+         sodipodi:role="line"
+         id="tspan5694-5"
+         x="-2659.0259"
+         y="217.4474">Feb 23, 2011</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5870"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.2588228,0,0,1.2325973,-3715.1779,-2766.4489)"><flowRegion
+         id="flowRegion5872"><rect
+           id="rect5874"
+           width="232.81252"
+           height="79.6875"
+           x="815.62506"
+           y="2385.1748" /></flowRegion><flowPara
+         id="flowPara5876">ಅಡ್ಡೂರು ಕೃಷ್ಣರಾವ್ </flowPara></flowRoot>    <rect
+       style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none"
+       id="rect5810-4"
+       width="225.00002"
+       height="184.37502"
+       x="-2463.6575"
+       y="44.325966" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5684-7-5"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.182959,0,0,1.1473233,-2677.6437,-2315.4177)"><flowRegion
+         id="flowRegion5686-4-7"><rect
+           id="rect5688-1-5"
+           width="177.35678"
+           height="123.58331"
+           x="192.18752"
+           y="2072.6748" /></flowRegion><flowPara
+         id="flowPara5690-6-2">ಗುಪ್ತಗಾಮಿನಿ ಸರಸ್ವತಿಯ ಹುಡುಕಾಟದಲ್ಲಿ ... </flowPara></flowRoot>    <rect
+       style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none"
+       id="rect5843-7"
+       width="223.40427"
+       height="62.500004"
+       x="-2462.0615"
+       y="164.63847" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5870-6"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.2588228,0,0,1.2325973,-3481.2404,-2766.8864)"><flowRegion
+         id="flowRegion5872-0"><rect
+           id="rect5874-9"
+           width="232.81252"
+           height="79.6875"
+           x="815.62506"
+           y="2385.1748" /></flowRegion><flowPara
+         id="flowPara5876-2">ಹಂಸಾನಂದಿ </flowPara></flowRoot>    <g
+       id="g6389-4"
+       transform="matrix(1.0212766,0,0,1,-2890.4613,-2724.5676)">
+      <rect
+         y="2961.7373"
+         x="189.06253"
+         height="184.37502"
+         width="220.31252"
+         id="rect5810-5"
+         style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none" />
+      <flowRoot
+         transform="matrix(1.158314,0,0,1.1473233,-20.465707,601.99367)"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5684-7-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5686-4-2"><rect
+             y="2072.6748"
+             x="192.18752"
+             height="123.58331"
+             width="177.35678"
+             id="rect5688-1-0" /></flowRegion><flowPara
+           id="flowPara5690-6-7">ಭೈರಪ್ಪನವರ ಕವಲು ಕಾದಂಬರಿ ವಿಮರ್ಶೆ </flowPara></flowRoot>      <rect
+         y="3082.0498"
+         x="190.62503"
+         height="62.500004"
+         width="218.75002"
+         id="rect5843-2"
+         style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none" />
+      <text
+         id="text5692-0-2"
+         y="3135.498"
+         x="198.84232"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="3135.498"
+           x="198.84232"
+           id="tspan5694-5-4"
+           sodipodi:role="line">Feb 23, 2011</tspan></text>
+      <flowRoot
+         transform="matrix(1.2325973,0,0,1.2325973,-807.32083,150.52493)"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5870-4"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5872-5"><rect
+             y="2385.1748"
+             x="815.62506"
+             height="79.6875"
+             width="232.81252"
+             id="rect5874-3" /></flowRegion><flowPara
+           id="flowPara5876-9">ಅಡ್ಡೂರು ಕೃಷ್ಣರಾವ್ </flowPara></flowRoot>    </g>
+    <g
+       id="g6389-5-5"
+       transform="matrix(1.0212766,0,0,1,-2656.5238,-2725.0051)">
+      <rect
+         y="2961.7373"
+         x="189.06253"
+         height="184.37502"
+         width="220.31252"
+         id="rect5810-4-9"
+         style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none" />
+      <flowRoot
+         transform="matrix(1.158314,0,0,1.1473233,-20.465707,601.99367)"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5684-7-5-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5686-4-7-2"><rect
+             y="2072.6748"
+             x="192.18752"
+             height="123.58331"
+             width="177.35678"
+             id="rect5688-1-5-1" /></flowRegion><flowPara
+           id="flowPara5690-6-2-4">ಗುಪ್ತಗಾಮಿನಿ ಸರಸ್ವತಿಯ ಹುಡುಕಾಟದಲ್ಲಿ ... </flowPara></flowRoot>      <rect
+         y="3082.0498"
+         x="190.62503"
+         height="62.500004"
+         width="218.75002"
+         id="rect5843-7-7"
+         style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none" />
+      <text
+         id="text5692-0-4-1"
+         y="3135.498"
+         x="198.84232"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="3135.498"
+           x="198.84232"
+           id="tspan5694-5-2-3"
+           sodipodi:role="line">Apr 3, 2011</tspan></text>
+      <flowRoot
+         transform="matrix(1.2325973,0,0,1.2325973,-807.32083,150.52493)"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5870-6-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5872-0-3"><rect
+             y="2385.1748"
+             x="815.62506"
+             height="79.6875"
+             width="232.81252"
+             id="rect5874-9-8" /></flowRegion><flowPara
+           id="flowPara5876-2-2">ಹಂಸಾನಂದಿ </flowPara></flowRoot>    </g>
+    <g
+       id="g6389-6"
+       transform="matrix(1.0212766,0,0,1,-2890.4613,-2530.8176)">
+      <rect
+         y="2961.7373"
+         x="189.06253"
+         height="184.37502"
+         width="220.31252"
+         id="rect5810-3"
+         style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none" />
+      <flowRoot
+         transform="matrix(1.158314,0,0,1.1473233,-20.465707,601.99367)"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5684-7-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5686-4-5"><rect
+             y="2072.6748"
+             x="192.18752"
+             height="123.58331"
+             width="177.35678"
+             id="rect5688-1-8" /></flowRegion><flowPara
+           id="flowPara5690-6-20">ಹೆಜ್ಜೆ ಮೂಡದ ಹಾದಿಯಲ್ಲಿ </flowPara></flowRoot>      <rect
+         y="3082.0498"
+         x="190.62503"
+         height="62.500004"
+         width="218.75002"
+         id="rect5843-5"
+         style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none" />
+      <text
+         id="text5692-0-5"
+         y="3135.498"
+         x="198.84232"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="3135.498"
+           x="198.84232"
+           id="tspan5694-5-5"
+           sodipodi:role="line">Feb 23, 2011</tspan></text>
+      <flowRoot
+         transform="matrix(1.2325973,0,0,1.2325973,-807.32083,150.52493)"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5870-69"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5872-3"><rect
+             y="2385.1748"
+             x="815.62506"
+             height="79.6875"
+             width="232.81252"
+             id="rect5874-0" /></flowRegion><flowPara
+           id="flowPara5876-4">ಅಡ್ಡೂರು ಕೃಷ್ಣರಾವ್ </flowPara></flowRoot>    </g>
+    <g
+       id="g6389-5-2"
+       transform="matrix(1.0212766,0,0,1,-2656.5238,-2531.2551)">
+      <rect
+         y="2961.7373"
+         x="189.06253"
+         height="184.37502"
+         width="220.31252"
+         id="rect5810-4-0"
+         style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none" />
+      <flowRoot
+         transform="matrix(1.158314,0,0,1.1473233,-20.465707,601.99367)"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5684-7-5-2"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5686-4-7-0"><rect
+             y="2072.6748"
+             x="192.18752"
+             height="123.58331"
+             width="177.35678"
+             id="rect5688-1-5-6" /></flowRegion><flowPara
+           id="flowPara5690-6-2-7">ಗುಪ್ತಗಾಮಿನಿ ಸರಸ್ವತಿಯ ಹುಡುಕಾಟದಲ್ಲಿ ... </flowPara></flowRoot>      <rect
+         y="3082.0498"
+         x="190.62503"
+         height="62.500004"
+         width="218.75002"
+         id="rect5843-7-3"
+         style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none" />
+      <text
+         id="text5692-0-4-7"
+         y="3135.498"
+         x="198.84232"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="3135.498"
+           x="198.84232"
+           id="tspan5694-5-2-5"
+           sodipodi:role="line">Apr 3, 2011</tspan></text>
+      <flowRoot
+         transform="matrix(1.2325973,0,0,1.2325973,-807.32083,150.52493)"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5870-6-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5872-0-8"><rect
+             y="2385.1748"
+             x="815.62506"
+             height="79.6875"
+             width="232.81252"
+             id="rect5874-9-88" /></flowRegion><flowPara
+           id="flowPara5876-2-5">ಹಂಸಾನಂದಿ </flowPara></flowRoot>    </g>
+    <g
+       id="g6389-49"
+       transform="matrix(1.0212766,0,0,1,-2890.4612,-2337.0676)"
+       clip-path="url(#clipPath6710)">
+      <rect
+         y="2961.7373"
+         x="189.06253"
+         height="184.37502"
+         width="220.31252"
+         id="rect5810-7"
+         style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none" />
+      <flowRoot
+         transform="matrix(1.158314,0,0,1.1473233,-20.465707,601.99367)"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5684-7-6"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5686-4-4"><rect
+             y="2072.6748"
+             x="192.18752"
+             height="123.58331"
+             width="177.35678"
+             id="rect5688-1-7" /></flowRegion><flowPara
+           id="flowPara5690-6-4">ಹೊಸ ಪುಸ್ತಕ: ಗುಡ್ ಅರ್ಥ್ ಎಂಬ ಕೃಷಿ ಪ್ರಧಾನವಾದ ನೊಬೆಲ್ ಪುರಸ್ಕೃತ ಕಾದಂಬರಿ </flowPara></flowRoot>      <rect
+         y="3082.0498"
+         x="190.62503"
+         height="62.500004"
+         width="218.75002"
+         id="rect5843-77"
+         style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none" />
+      <text
+         id="text5692-0-6"
+         y="3135.498"
+         x="198.84232"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="3135.498"
+           x="198.84232"
+           id="tspan5694-5-22"
+           sodipodi:role="line">Feb 23, 2011</tspan></text>
+      <flowRoot
+         transform="matrix(1.2325973,0,0,1.2325973,-807.32083,150.52493)"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5870-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5872-00"><rect
+             y="2385.1748"
+             x="815.62506"
+             height="79.6875"
+             width="232.81252"
+             id="rect5874-05" /></flowRegion><flowPara
+           id="flowPara5876-7">ಅಡ್ಡೂರು ಕೃಷ್ಣರಾವ್ </flowPara></flowRoot>    </g>
+    <g
+       id="g6389-5-0"
+       transform="matrix(1.0212766,0,0,1,-2656.5238,-2337.5051)"
+       clip-path="url(#clipPath6706)">
+      <rect
+         y="2961.7373"
+         x="189.06253"
+         height="184.37502"
+         width="220.31252"
+         id="rect5810-4-6"
+         style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none" />
+      <flowRoot
+         transform="matrix(1.158314,0,0,1.1473233,-20.465707,601.99367)"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5684-7-5-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5686-4-7-6"><rect
+             y="2072.6748"
+             x="192.18752"
+             height="123.58331"
+             width="177.35678"
+             id="rect5688-1-5-8" /></flowRegion><flowPara
+           id="flowPara5690-6-2-6">ಗುಪ್ತಗಾಮಿನಿ ಸರಸ್ವತಿಯ ಹುಡುಕಾಟದಲ್ಲಿ ... </flowPara></flowRoot>      <rect
+         y="3082.0498"
+         x="190.62503"
+         height="62.500004"
+         width="218.75002"
+         id="rect5843-7-0"
+         style="opacity:0.74248926;fill:#ff9955;fill-opacity:1;stroke:none" />
+      <text
+         id="text5692-0-4-76"
+         y="3135.498"
+         x="198.84232"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="3135.498"
+           x="198.84232"
+           id="tspan5694-5-2-6"
+           sodipodi:role="line">Apr 3, 2011</tspan></text>
+      <flowRoot
+         transform="matrix(1.2325973,0,0,1.2325973,-807.32083,150.52493)"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5870-6-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5872-0-80"><rect
+             y="2385.1748"
+             x="815.62506"
+             height="79.6875"
+             width="232.81252"
+             id="rect5874-9-4" /></flowRegion><flowPara
+           id="flowPara5876-2-8">ಹಂಸಾನಂದಿ </flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:13.72927475px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-2425.198"
+       y="218.61171"
+       id="text5692-0-60"
+       transform="scale(1.0105823,0.98952851)"><tspan
+         sodipodi:role="line"
+         id="tspan5694-5-0"
+         x="-2425.198"
+         y="218.61171">Feb 23, 2011</tspan></text>
+    <image
+       y="-67.876587"
+       x="373.16263"
+       id="image2957-3-0-2-3"
+       height="800"
+       width="480"
+       xlink:href="file:///home/supreeth/Pictures/device-2012-01-30-104435.png"
+       clip-path="url(#clipPath2963-5-8-3-6)"
+       transform="translate(-324.259,163.84372)" />
+    <rect
+       style="fill:#cedff2;fill-opacity:1;stroke:none"
+       id="rect3028"
+       width="448.57144"
+       height="92.85714"
+       x="-475.13574"
+       y="610.02356"
+       ry="9.2857141" />
+    <rect
+       style="fill:url(#linearGradient3838);fill-opacity:1;stroke:none"
+       id="rect3028-9"
+       width="448.57144"
+       height="91.785713"
+       x="-475.13574"
+       y="611.09491"
+       ry="9.1785717" />
+    <rect
+       style="fill:#cedff2;fill-opacity:1;stroke:none"
+       id="rect3028-1"
+       width="448.57144"
+       height="92.85714"
+       x="-473.70718"
+       y="719.30927"
+       ry="9.2857141" />
+    <rect
+       style="fill:url(#linearGradient3838-5);fill-opacity:1;stroke:none"
+       id="rect3028-9-0"
+       width="448.57144"
+       height="91.785713"
+       x="-473.70718"
+       y="720.38062"
+       ry="9.1785717" />
+    <g
+       id="g3223">
+      <rect
+         ry="9.2857141"
+         y="501.83466"
+         x="-460.15677"
+         height="92.85714"
+         width="448.57144"
+         id="rect3028-2"
+         style="fill:#cedff2;fill-opacity:1;stroke:none" />
+      <rect
+         ry="9.1785717"
+         y="503.4111"
+         x="-460.15677"
+         height="91.785713"
+         width="448.57144"
+         id="rect3028-9-7"
+         style="fill:url(#linearGradient4450);fill-opacity:1;stroke:none" />
+    </g>
+    <image
+       y="203.83916"
+       x="75.261467"
+       id="image4066-60"
+       height="200"
+       width="200"
+       xlink:href="file:///home/supreeth/Documents/Projects/wikitrack-kannada/drawables/Wikipedia-logo.png"
+       style="filter:url(#filter4034)" />
+    <image
+       y="198.79074"
+       x="73.571434"
+       id="image4066"
+       height="200"
+       width="200"
+       xlink:href="file:///home/supreeth/Documents/Projects/wikitrack-kannada/drawables/Wikipedia-logo.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4070-9"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.5049205,0,0,1.5049205,114.91805,151.46806)"><flowRegion
+         id="flowRegion4072-0"><rect
+           id="rect4074-5"
+           width="370"
+           height="147.14285"
+           x="615.71429"
+           y="369.50504"
+           style="fill:#4d4d4d" /></flowRegion><flowPara
+         id="flowPara4076-1"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#4d4d4d;font-family:Kedage;-inkscape-font-specification:Kedage">ವಿಕಿ ಟ್ರ್ಯಾಕ್</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4070"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.5049205,0,0,1.5049205,-152.53382,69.331)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/wikitrack_title.png"><flowRegion
+         id="flowRegion4072"><rect
+           id="rect4074"
+           width="370"
+           height="147.14285"
+           x="615.71429"
+           y="369.50504"
+           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4076"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Kedage;-inkscape-font-specification:Kedage">ವಿಕಿ ಟ್ರ್ಯಾಕ್</flowPara></flowRoot>    <g
+       id="g3271">
+      <flowRoot
+         transform="matrix(1.6740902,0,0,1.6740902,-684.58522,-151.19464)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#445016;fill-opacity:1;stroke:none;font-family:Kedage;-inkscape-font-specification:Kedage"
+         id="flowRoot4078-8"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4080-3"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#445016;font-family:Kedage;-inkscape-font-specification:Kedage"
+             y="286.64789"
+             x="571.42859"
+             height="147.14284"
+             width="367.14285"
+             id="rect4082-0" /></flowRegion><flowPara
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#445016;font-family:Kedage;-inkscape-font-specification:Kedage"
+           id="flowPara4084-5"> ಕನ್ನಡ </flowPara></flowRoot>      <flowRoot
+         transform="matrix(1.6740902,0,0,1.6740902,-684.61124,-152.56854)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Kedage;-inkscape-font-specification:Kedage"
+         id="flowRoot4078"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4080"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Kedage;-inkscape-font-specification:Kedage"
+             y="286.64789"
+             x="571.42859"
+             height="147.14284"
+             width="367.14285"
+             id="rect4082" /></flowRegion><flowPara
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808000;font-family:Kedage;-inkscape-font-specification:Kedage"
+           id="flowPara4084"> ಕನ್ನಡ </flowPara></flowRoot>    </g>
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       id="rect4086"
+       width="60.609154"
+       height="17.172594"
+       x="621.62885"
+       y="300.74634"
+       ry="8.586297"
+       rx="0"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/drawables/karnataka_flag.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       id="rect4086-9"
+       width="60.609154"
+       height="17.172594"
+       x="611.55261"
+       y="319.09732"
+       ry="8.586297"
+       rx="0"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/drawables/karnataka_flag.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3165"
+       transform="matrix(0.75149461,0,0,1,17.840562,-2.0203051)">
+      <rect
+         ry="0"
+         y="787.00537"
+         x="71.813019"
+         height="92.85714"
+         width="438.98892"
+         id="rect3028-1-0"
+         style="fill:#5599ff;fill-opacity:1;stroke:none" />
+      <rect
+         ry="0"
+         y="789.08691"
+         x="71.791451"
+         height="91.785713"
+         width="438.98892"
+         id="rect3028-9-0-7"
+         style="fill:url(#linearGradient3169);fill-opacity:1;stroke:none" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4196"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:18"><flowRegion
+         id="flowRegion4198"><rect
+           id="rect4200"
+           width="314.28571"
+           height="151.42857"
+           x="645.71429"
+           y="598.07648" /></flowRegion><flowPara
+         id="flowPara4202" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4204"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.8930795,0,0,1.8930795,-1840.2282,-573.27676)"><flowRegion
+         id="flowRegion4206"><rect
+           id="rect4208"
+           width="565.71429"
+           height="191.42857"
+           x="754.28571"
+           y="586.64789" /></flowRegion><flowPara
+         id="flowPara4210"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Kedage;-inkscape-font-specification:Kedage">ಇತ್ತೀಚೆಗಿನ ಬದಲಾವಣೆಗಳು</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4204-8"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.8930795,0,0,1.8930795,-1789.5525,-362.77676)"><flowRegion
+         id="flowRegion4206-1"><rect
+           id="rect4208-3"
+           width="565.71429"
+           height="191.42857"
+           x="754.28571"
+           y="586.64789" /></flowRegion><flowPara
+         id="flowPara4210-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Kedage;-inkscape-font-specification:Kedage">ನನ್ನ ಕಾಣಿಕೆಗಳು </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4204-9"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.8930795,0,0,1.8930795,-1791.5728,-473.89354)"><flowRegion
+         id="flowRegion4206-0"><rect
+           id="rect4208-8"
+           width="565.71429"
+           height="191.42857"
+           x="754.28571"
+           y="586.64789" /></flowRegion><flowPara
+         id="flowPara4210-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Kedage;-inkscape-font-specification:Kedage">ನನ್ನ ವೀಕ್ಷಣಾಪಟ್ಟಿ </flowPara></flowRoot>    <rect
+       style="fill:#ffccaa;fill-opacity:1;stroke:none"
+       id="rect2967-7-7-7-3"
+       width="480"
+       height="760"
+       x="-1942.8684"
+       y="41.620285" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4204-9-1"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.8930795,0,0,1.8930795,-1275.2834,-314.89594)"><flowRegion
+         id="flowRegion4206-0-2"><rect
+           id="rect4208-8-5"
+           width="88.139778"
+           height="113.52258"
+           x="754.28571"
+           y="586.64789" /></flowRegion><flowPara
+         id="flowPara4210-9-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Kedage;-inkscape-font-specification:Kedage">ಮತ್ತಷ್ಟು ತಂತ್ರಾಂಶಗಳು </flowPara></flowRoot>    <image
+       y="649.50507"
+       x="1260"
+       id="image4066-6"
+       height="200"
+       width="200"
+       xlink:href="file:///home/supreeth/Documents/Projects/wikitrack-kannada/drawables/Wikipedia-logo.png"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/drawables/wiki-logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4078-1"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Kedage;-inkscape-font-specification:Kedage"
+       transform="matrix(1.3477308,0,0,1.3477308,511.55628,476.81596)"><flowRegion
+         id="flowRegion4080-9"><rect
+           id="rect4082-1"
+           width="367.14285"
+           height="147.14284"
+           x="571.42859"
+           y="286.64789"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Kedage;-inkscape-font-specification:Kedage" /></flowRegion><flowPara
+         id="flowPara4084-0"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808000;font-family:Kedage;-inkscape-font-specification:Kedage"> ಕನ್ನಡ </flowPara></flowRoot>    <g
+       id="g3093"
+       transform="translate(-327.28942,-98.994949)">
+      <rect
+         y="64.237297"
+         x="-954.28571"
+         height="799.10693"
+         width="480"
+         id="rect3213-6-93-3-3-9-8"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.89309579;stroke-miterlimit:4;stroke-dasharray:none" />
+      <image
+         transform="translate(-1328.3055,131.69385)"
+         clip-path="url(#clipPath2963-5-8-3-6-0)"
+         xlink:href="file:///home/supreeth/Pictures/device-2012-01-30-104435.png"
+         width="480"
+         height="800"
+         id="image2957-3-0-2-3-0"
+         x="373.16263"
+         y="-67.876587" />
+    </g>
+    <g
+       transform="translate(1785.9196,-348.57143)"
+       id="g3093-4">
+      <rect
+         y="64.237297"
+         x="-954.28571"
+         height="799.10693"
+         width="480"
+         id="rect3213-6-93-3-3-9-8-1"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.89309579;stroke-miterlimit:4;stroke-dasharray:none" />
+      <image
+         transform="translate(-1328.3055,131.69385)"
+         clip-path="url(#clipPath2963-5-8-3-6-0-6)"
+         xlink:href="file:///home/supreeth/Pictures/device-2012-01-30-104435.png"
+         width="480"
+         height="800"
+         id="image2957-3-0-2-3-0-5"
+         x="373.16263"
+         y="-67.876587" />
+    </g>
+    <rect
+       style="fill:#d7eef4;fill-opacity:1;stroke:none"
+       id="rect3028-2-5"
+       width="477.14288"
+       height="757.14282"
+       x="832.85718"
+       y="-244.31888"
+       ry="0" />
+    <rect
+       style="fill:url(#linearGradient4450-6);fill-opacity:1;stroke:none"
+       id="rect3028-9-7-9"
+       width="448.57144"
+       height="91.785713"
+       x="20.000002"
+       y="-179.88531"
+       ry="9.1785717" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4204-0"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.8930795,0,0,1.8930795,-1452.9286,-1329.4303)"><flowRegion
+         id="flowRegion4206-8"><rect
+           id="rect4208-4"
+           width="565.71429"
+           height="191.42857"
+           x="754.28571"
+           y="586.64789" /></flowRegion><flowPara
+         id="flowPara4210-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Kedage;-inkscape-font-specification:Kedage">ಇತ್ತೀಚೆಗಿನ ಬದಲಾವಣೆಗಳು</flowPara></flowRoot>    <rect
+       style="fill:#88aa00;fill-opacity:1;stroke:none"
+       id="rect3028-1-0-6"
+       width="438.98892"
+       height="92.85714"
+       x="70.935181"
+       y="675.36127"
+       ry="0" />
+    <rect
+       style="fill:url(#linearGradient4194-9);fill-opacity:1;stroke:none"
+       id="rect3028-9-0-7-0"
+       width="438.98892"
+       height="91.785713"
+       x="69.903465"
+       y="676.93768"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4204-9-1-2"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.8930795,0,0,1.8930795,-1227.674,-403.30657)"><flowRegion
+         id="flowRegion4206-0-2-2"><rect
+           id="rect4208-8-5-2"
+           width="565.71429"
+           height="191.42857"
+           x="754.28571"
+           y="586.64789" /></flowRegion><flowPara
+         id="flowPara4210-9-3-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Kedage;-inkscape-font-specification:Kedage">ನನ್ನ ಕಾಣಿಕೆಗಳು </flowPara></flowRoot>    <rect
+       style="fill:#88aa00;fill-opacity:1;stroke:none"
+       id="rect3028-1-0-8"
+       width="438.98892"
+       height="92.85714"
+       x="70.935173"
+       y="567.2749"
+       ry="0" />
+    <rect
+       style="fill:url(#linearGradient4194-2);fill-opacity:1;stroke:none"
+       id="rect3028-9-0-7-5"
+       width="438.98892"
+       height="91.785713"
+       x="69.903465"
+       y="568.85132"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4204-9-1-0"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.8930795,0,0,1.8930795,-1245.8567,-513.41319)"><flowRegion
+         id="flowRegion4206-0-2-9"><rect
+           id="rect4208-8-5-3"
+           width="565.71429"
+           height="191.42857"
+           x="754.28571"
+           y="586.64789" /></flowRegion><flowPara
+         id="flowPara4210-9-3-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Kedage;-inkscape-font-specification:Kedage">ನನ್ನ ವೀಕ್ಷಣಾಪಟ್ಟಿ </flowPara></flowRoot>    <rect
+       style="fill:#88aa00;fill-opacity:1;stroke:none"
+       id="rect3028-1-0-4"
+       width="438.98892"
+       height="92.85714"
+       x="73.965637"
+       y="454.13785"
+       ry="0" />
+    <rect
+       style="fill:url(#linearGradient4194-6);fill-opacity:1;stroke:none"
+       id="rect3028-9-0-7-01"
+       width="438.98892"
+       height="91.785713"
+       x="72.933914"
+       y="455.71426"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4204-9-1-9"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.8930795,0,0,1.8930795,-1301.2323,-626.55028)"><flowRegion
+         id="flowRegion4206-0-2-1"><rect
+           id="rect4208-8-5-7"
+           width="565.71429"
+           height="191.42857"
+           x="754.28571"
+           y="586.64789" /></flowRegion><flowPara
+         id="flowPara4210-9-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Kedage;-inkscape-font-specification:Kedage">ಇತ್ತೀಚೆಗಿನ ಬದಲಾವಣೆಗಳು</flowPara></flowRoot>    <rect
+       style="fill:#88aa00;fill-opacity:1;stroke:none"
+       id="rect3028-1-0-4-2"
+       width="438.98892"
+       height="92.85714"
+       x="347.44995"
+       y="-357.17599"
+       ry="0" />
+    <rect
+       style="fill:url(#linearGradient4194-6-4);fill-opacity:1;stroke:none"
+       id="rect3028-9-0-7-01-3"
+       width="438.98892"
+       height="91.785713"
+       x="346.41824"
+       y="-355.59958"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4204-9-1-9-7"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.8930795,0,0,1.8930795,-1003.5042,-1435.8438)"><flowRegion
+         id="flowRegion4206-0-2-1-0"><rect
+           id="rect4208-8-5-7-6"
+           width="565.71429"
+           height="191.42857"
+           x="754.28571"
+           y="586.64789" /></flowRegion><flowPara
+         id="flowPara4210-9-3-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Kedage;-inkscape-font-specification:Kedage">ಇತ್ತೀಚೆಗಿನ ಬದಲಾವಣೆಗಳು</flowPara></flowRoot>    <rect
+       style="fill:#5599ff;fill-opacity:1;stroke:none"
+       id="rect3028-1-0-3"
+       width="476.84607"
+       height="92.85714"
+       x="833.37347"
+       y="-246"
+       ry="0" />
+    <rect
+       style="fill:url(#linearGradient4206-2);fill-opacity:1;stroke:none"
+       id="rect3028-9-0-7-017"
+       width="478.98892"
+       height="91.785713"
+       x="831.92334"
+       y="-246.7756"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4204-9-1-6"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.8930795,0,0,1.8930795,-555.58091,-1479.6678)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/wikitrack_kannada_title.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4206-0-2-7"><rect
+           id="rect4208-8-5-6"
+           width="565.71429"
+           height="191.42857"
+           x="754.28571"
+           y="586.64789" /></flowRegion><flowPara
+         id="flowPara4210-9-3-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Kedage;-inkscape-font-specification:Kedage">ವಿಕಿ ಟ್ರ್ಯಾಕ್ <flowSpan
+   style="fill:#ffff00"
+   id="flowSpan4242">ಕನ್ನಡ </flowSpan></flowPara></flowRoot>    <g
+       transform="matrix(0.21815289,0,0,1,510.4746,284.13827)"
+       id="g3223-3">
+      <rect
+         ry="9.2857141"
+         y="501.83466"
+         x="-460.15677"
+         height="92.85714"
+         width="448.57144"
+         id="rect3028-2-1"
+         style="fill:#cedff2;fill-opacity:1;stroke:none" />
+      <rect
+         ry="9.1785717"
+         y="503.4111"
+         x="-460.15677"
+         height="91.785713"
+         width="448.57144"
+         id="rect3028-9-7-91"
+         style="fill:url(#linearGradient3246);fill-opacity:1;stroke:none" />
+    </g>
+    <image
+       y="789.96619"
+       x="416.42651"
+       id="image3181"
+       height="84.365494"
+       width="84.365494"
+       xlink:href="file:///home/supreeth/Documents/Projects/wikitrack-kannada/inkscape_pasted_image_20120501_174613.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4078-8-1"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Kedage;-inkscape-font-specification:Kedage"
+       transform="matrix(0.92609656,0,0,0.92609656,478.37573,537.83738)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/kannada_title.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4080-3-0"><rect
+           id="rect4082-0-0"
+           width="367.14285"
+           height="147.14284"
+           x="571.42859"
+           y="286.64789"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Kedage;-inkscape-font-specification:Kedage" /></flowRegion><flowPara
+         id="flowPara4084-5-5"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Kedage;-inkscape-font-specification:Kedage">ಕನ್ನಡ </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4070-9-8"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#800080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.5049205,0,0,1.5049205,-376.22525,-347.37584)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/wikitrack_title.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4072-0-3"><rect
+           id="rect4074-5-2"
+           width="370"
+           height="147.14285"
+           x="615.71429"
+           y="369.50504"
+           style="fill:#800080" /></flowRegion><flowPara
+         id="flowPara4076-1-0"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#800080;font-family:Kedage;-inkscape-font-specification:Kedage">ವಿಕಿ ಟ್ರ್ಯಾಕ್</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4070-6"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#9a319a;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.5049205,0,0,1.5049205,-375.92458,-346.50782)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/wikitrack_title.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4072-4"><rect
+           id="rect4074-9"
+           width="370"
+           height="147.14285"
+           x="615.71429"
+           y="369.50504"
+           style="fill:#9a319a;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4076-3"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#9a319a;fill-opacity:1;font-family:Kedage;-inkscape-font-specification:Kedage">ವಿಕಿ ಟ್ರ್ಯಾಕ್</flowPara></flowRoot>    <path
+       sodipodi:type="arc"
+       style="opacity:0.84120172;fill:#cccccc;fill-opacity:1;stroke:none;filter:url(#filter4199)"
+       id="path3409"
+       sodipodi:cx="-187.3833"
+       sodipodi:cy="276.56503"
+       sodipodi:rx="97.479721"
+       sodipodi:ry="94.954338"
+       d="m -89.90358,276.56503 a 97.479721,94.954338 0 1 1 -194.95944,0 97.479721,94.954338 0 1 1 194.95944,0 z"
+       transform="matrix(0.76956248,-0.52687343,0.42068913,0.61446744,-62.190459,-230.51876)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/wiki_logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <image
+       y="143.23233"
+       x="-310.79163"
+       id="image4066-4"
+       height="200"
+       width="200"
+       xlink:href="file:///home/supreeth/Documents/Projects/wikitrack-kannada/drawables/Wikipedia-logo.png"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/wiki_logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-1-02"
+       width="46.511066"
+       height="5.0507627"
+       x="1357.3214"
+       y="-125.67535"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/drawables/menu_more_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-2-8-8"
+       width="46.511066"
+       height="5.0507627"
+       x="1357.3214"
+       y="-116.54245"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/drawables/menu_more_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       d="m 1403.7283,-101.68002 0,12.142897 -13.3928,0 13.3928,-12.142897 z"
+       id="path8261-5-7"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/drawables/menu_more_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:url(#linearGradient6429);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-8-8-3"
+       width="46.511066"
+       height="5.0663877"
+       x="1357.3214"
+       y="-125.67552"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/drawables/menu_more_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-7-3-4-59"
+       width="46.511066"
+       height="5.0507627"
+       x="1357.3214"
+       y="-107.61033"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/drawables/menu_more_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient3253);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       d="m 1403.7282,-101.68002 0,12.142897 -13.3928,0 13.3928,-12.142897 z"
+       id="path8261-6-4-3"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/drawables/menu_more_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-1-02-2"
+       width="46.511066"
+       height="5.0507627"
+       x="1412.1211"
+       y="-238.59563" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-2-8-8-6"
+       width="46.511066"
+       height="5.0507627"
+       x="1412.1211"
+       y="-229.3371" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       d="m 1458.3712,-214.53717 0,12.1429 -13.3928,0 13.3928,-12.1429 z"
+       id="path8261-5-7-1" />
+    <rect
+       style="fill:url(#linearGradient10642-1-8);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-8-8-3-6"
+       width="46.511066"
+       height="5.0507627"
+       x="1412.1379"
+       y="-238.591" />
+    <rect
+       style="fill:url(#linearGradient10639-4-6);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-8-7-2-7-2"
+       width="46.511066"
+       height="5.0507627"
+       x="1412.0652"
+       y="-229.3891" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-7-3-4-59-7"
+       width="46.511066"
+       height="5.0507627"
+       x="1412.0652"
+       y="-219.85809" />
+    <rect
+       style="fill:url(#linearGradient10635-3-4);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-8-7-6-0-1-7"
+       width="46.511066"
+       height="5.0507627"
+       x="1412.082"
+       y="-219.85345" />
+    <path
+       style="fill:url(#linearGradient10632-2-4);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       d="m 1458.3711,-214.53717 0,12.1429 -13.3928,0 13.3928,-12.1429 z"
+       id="path8261-6-4-3-9" />
+    <rect
+       style="fill:url(#linearGradient6448);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-8-8-3-64"
+       width="46.511066"
+       height="5.0702939"
+       x="1357.3214"
+       y="-116.54433"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/drawables/menu_more_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:url(#linearGradient6448-7);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-8-8-3-9"
+       width="46.511066"
+       height="5.0820127"
+       x="1357.3214"
+       y="-107.61855"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/drawables/menu_more_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-1-02-27"
+       width="46.511066"
+       height="5.0507627"
+       x="1367.5397"
+       y="-223.43724" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-2-8-8-9"
+       width="46.511066"
+       height="5.0507627"
+       x="1322.2719"
+       y="-213.89297" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       d="m 1413.7897,-199.37878 0,12.1429 -13.3928,0 13.3928,-12.1429 z"
+       id="path8261-5-7-0" />
+    <rect
+       style="fill:url(#linearGradient6429-2);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-8-8-3-5"
+       width="46.511066"
+       height="5.0507627"
+       x="1367.3779"
+       y="-223.61118" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-7-3-4-59-6"
+       width="46.511066"
+       height="5.0507627"
+       x="1367.4838"
+       y="-204.69971" />
+    <path
+       style="fill:url(#linearGradient3253-9);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       d="m 1413.7896,-199.37878 0,12.1429 -13.3928,0 13.3928,-12.1429 z"
+       id="path8261-6-4-3-5" />
+    <rect
+       style="fill:url(#linearGradient6448-1);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-8-8-3-64-5"
+       width="46.511066"
+       height="5.0507627"
+       x="1367.9186"
+       y="-213.77711" />
+    <rect
+       style="fill:url(#linearGradient6448-7-8);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-8-8-3-9-9"
+       width="46.511066"
+       height="5.0507627"
+       x="1367.5614"
+       y="-204.67891" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-1-02-7"
+       width="46.511066"
+       height="5.0507627"
+       x="1250.7445"
+       y="-219.70683" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-2-8-8-60"
+       width="46.511066"
+       height="5.0507627"
+       x="1250.7445"
+       y="-210.57394" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       d="m 1297.1514,-195.71151 0,12.1429 -13.3928,0 13.3928,-12.1429 z"
+       id="path8261-5-7-8" />
+    <rect
+       style="fill:url(#linearGradient6429-62);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-8-8-3-66"
+       width="46.511066"
+       height="5.0663877"
+       x="1250.7445"
+       y="-219.70702" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-7-3-4-59-79"
+       width="46.511066"
+       height="5.0507627"
+       x="1250.7445"
+       y="-201.64182" />
+    <path
+       style="fill:url(#linearGradient3253-6);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       d="m 1297.1513,-195.71151 0,12.1429 -13.3928,0 13.3928,-12.1429 z"
+       id="path8261-6-4-3-8" />
+    <rect
+       style="fill:url(#linearGradient6448-0);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-8-8-3-64-9"
+       width="46.511066"
+       height="5.0702939"
+       x="1250.7445"
+       y="-210.57582" />
+    <rect
+       style="fill:url(#linearGradient6448-7-1);fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       id="rect8213-8-8-3-9-3"
+       width="46.511066"
+       height="5.0820127"
+       x="1250.7445"
+       y="-201.65004" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4204-9-1-6-4"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.8930795,0,0,1.8930795,-489.05125,-1329.7069)"><flowRegion
+         id="flowRegion4206-0-2-7-8"><rect
+           id="rect4208-8-5-6-5"
+           width="565.71429"
+           height="191.42857"
+           x="754.28571"
+           y="586.64789" /></flowRegion><flowPara
+         id="flowPara4210-9-3-3-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Kedage;-inkscape-font-specification:Kedage">ಮತ್ತಷ್ಟು ತಂತ್ರಾಂಶಗಳು </flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#999999"
+       id="rect4244"
+       width="469"
+       height="71"
+       x="836.5"
+       y="-138.63782" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4246"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.56665,0,0,1.56665,-1506.2738,-141.46579)"><flowRegion
+         id="flowRegion4248"><rect
+           id="rect4250"
+           width="288"
+           height="59"
+           x="1502"
+           y="9.3621874" /></flowRegion><flowPara
+         id="flowPara4252"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Kedage;-inkscape-font-specification:Kedage">ಅಚಲಾ ಸಚ್ ದೇವ್ </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4246-2"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#999999;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(0.86141434,0,0,0.86141434,-446.83798,-102.89389)"><flowRegion
+         id="flowRegion4248-5"><rect
+           id="rect4250-2"
+           width="288"
+           height="59"
+           x="1502"
+           y="9.3621874"
+           style="fill:#999999" /></flowRegion><flowPara
+         id="flowPara4252-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Kedage;-inkscape-font-specification:Kedage">Radhatanaya </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4246-2-6"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#999999;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(0.86141434,0,0,0.86141434,-111.03535,-95.976759)"><flowRegion
+         id="flowRegion4248-5-0"><rect
+           id="rect4250-2-1"
+           width="288"
+           height="59"
+           x="1502"
+           y="9.3621874"
+           style="fill:#999999" /></flowRegion><flowPara
+         id="flowPara4252-5-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Kedage;-inkscape-font-specification:Kedage">೧೨ ನಿಮಿಷಗಳ ಹಿಂದೆ  </flowPara></flowRoot>    <image
+       y="-132.13782"
+       x="1269.106"
+       id="image4432"
+       height="32"
+       width="30"
+       xlink:href="file:///home/supreeth/Documents/Projects/wikitrack-kannada/drawables/btn_star_big_on_006.png" />
+    <image
+       y="-138.50177"
+       x="1224.0938"
+       id="image4503"
+       height="41.747688"
+       width="33.050251"
+       xlink:href="file:///home/supreeth/Documents/Projects/wikitrack-kannada/drawables/btn_check_on_005.png" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#999999"
+       id="rect4244-0"
+       width="469"
+       height="71"
+       x="836.76678"
+       y="-60.06144" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4246-1"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.56665,0,0,1.56665,-1506.007,-62.889414)"><flowRegion
+         id="flowRegion4248-2"><rect
+           id="rect4250-25"
+           width="288"
+           height="59"
+           x="1502"
+           y="9.3621874" /></flowRegion><flowPara
+         id="flowPara4252-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Kedage;-inkscape-font-specification:Kedage">ಅಚಲಾ ಸಚ್ ದೇವ್ </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4246-2-5"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#999999;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(0.86141434,0,0,0.86141434,-446.57123,-24.317514)"><flowRegion
+         id="flowRegion4248-5-3"><rect
+           id="rect4250-2-0"
+           width="288"
+           height="59"
+           x="1502"
+           y="9.3621874"
+           style="fill:#999999" /></flowRegion><flowPara
+         id="flowPara4252-5-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Kedage;-inkscape-font-specification:Kedage">Radhatanaya </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4246-2-6-0"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#999999;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(0.86141434,0,0,0.86141434,-110.76858,-17.400383)"><flowRegion
+         id="flowRegion4248-5-0-8"><rect
+           id="rect4250-2-1-6"
+           width="288"
+           height="59"
+           x="1502"
+           y="9.3621874"
+           style="fill:#999999" /></flowRegion><flowPara
+         id="flowPara4252-5-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Kedage;-inkscape-font-specification:Kedage">೧೨ ನಿಮಿಷಗಳ ಹಿಂದೆ  </flowPara></flowRoot>    <image
+       y="-53.56144"
+       x="1269.3727"
+       id="image4432-6"
+       height="32"
+       width="30"
+       xlink:href="file:///home/supreeth/Documents/Projects/wikitrack-kannada/drawables/btn_star_big_on_006.png" />
+    <image
+       y="-59.925392"
+       x="1224.3605"
+       id="image4503-4"
+       height="41.747688"
+       width="33.050251"
+       xlink:href="file:///home/supreeth/Documents/Projects/wikitrack-kannada/drawables/btn_check_on_005.png" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#999999;stroke-width:1.08879912;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.99537036;stroke-dasharray:none"
+       id="rect4573"
+       width="458.91119"
+       height="30.911201"
+       x="840.04437"
+       y="-129.59341" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       id="rect3342"
+       width="63.5"
+       height="29.5"
+       x="677.5"
+       y="624.86218"
+       ry="8.586297" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3335-0"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(3.271997,0,0,3.271997,-1361.7009,-1851.0533)"><flowRegion
+         id="flowRegion3337-5"><rect
+           id="rect3339-3"
+           width="303.34882"
+           height="62.225395"
+           x="649.83112"
+           y="805.58191"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3341-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">Wikitrack</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3335"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#333333;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(3.271997,0,0,3.271997,-1361.3891,-1850.7677)"><flowRegion
+         id="flowRegion3337"><rect
+           id="rect3339"
+           width="303.34882"
+           height="62.225395"
+           x="649.83112"
+           y="805.58191"
+           style="fill:#333333" /></flowRegion><flowPara
+         id="flowPara3341"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:#333333">Wikitrack</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4078-7-9"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Kedage;-inkscape-font-specification:Kedage"
+       transform="matrix(0.92609656,0,0,0.92609656,746.57189,294.73137)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/wikitrack_header_title.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4080-1-0"><rect
+           id="rect4082-5-7"
+           width="367.14285"
+           height="147.14284"
+           x="571.42859"
+           y="286.64789"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Kedage;-inkscape-font-specification:Kedage" /></flowRegion><flowPara
+         id="flowPara4084-2-0"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Kedage;-inkscape-font-specification:Kedage">ಕನ್ನಡ </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4078-8-1-5"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Kedage;-inkscape-font-specification:Kedage"
+       transform="matrix(0.92609656,0,0,0.92609656,746.78186,295.26802)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/wikitrack_header_title.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4080-3-0-2"><rect
+           id="rect4082-0-0-8"
+           width="367.14285"
+           height="147.14284"
+           x="571.42859"
+           y="286.64789"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Kedage;-inkscape-font-specification:Kedage" /></flowRegion><flowPara
+         id="flowPara4084-5-5-6"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Kedage;-inkscape-font-specification:Kedage">ಕನ್ನಡ </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3335-0-7"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(3.271997,0,0,3.271997,-1093.8251,-2095.2136)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/wikitrack_header_title.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3337-5-2"><rect
+           id="rect3339-3-2"
+           width="303.34882"
+           height="62.225395"
+           x="649.83112"
+           y="805.58191"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3341-6-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">Wikitrack</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3335-5"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#333333;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(3.271997,0,0,3.271997,-1093.5133,-2094.928)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/wikitrack_header_title.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3337-8"><rect
+           id="rect3339-6"
+           width="303.34882"
+           height="62.225395"
+           x="649.83112"
+           y="805.58191"
+           style="fill:#333333" /></flowRegion><flowPara
+         id="flowPara3341-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">Wikitrack</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4078-7-94"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;fill-opacity:1;stroke:none;font-family:Kedage;-inkscape-font-specification:Kedage"
+       transform="matrix(0.92609656,0,0,0.92609656,1136.2927,297.12102)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/wikitrack_header_title.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4080-1-8"><rect
+           id="rect4082-5-2"
+           width="367.14285"
+           height="147.14284"
+           x="571.42859"
+           y="286.64789"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Kedage;-inkscape-font-specification:Kedage" /></flowRegion><flowPara
+         id="flowPara4084-2-9"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Kedage;-inkscape-font-specification:Kedage">ಕನ್ನಡ </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4078-8-1-1"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Kedage;-inkscape-font-specification:Kedage"
+       transform="matrix(0.92609656,0,0,0.92609656,1135.9724,296.06668)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/wikitrack_header_title.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4080-3-0-1"><rect
+           id="rect4082-0-0-5"
+           width="367.14285"
+           height="147.14284"
+           x="571.42859"
+           y="286.64789"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e6e6e6;font-family:Kedage;-inkscape-font-specification:Kedage" /></flowRegion><flowPara
+         id="flowPara4084-5-5-7"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e6e6e6;font-family:Kedage;-inkscape-font-specification:Kedage">ಕನ್ನಡ </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3335-0-0"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(3.271997,0,0,3.271997,-704.10434,-2092.8239)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/wikitrack_header_title.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3337-5-9"><rect
+           id="rect3339-3-7"
+           width="303.34882"
+           height="62.225395"
+           x="649.83112"
+           y="805.58191"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3341-6-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">Wikitrack</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3335-4"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#333333;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(3.271997,0,0,3.271997,-703.79254,-2092.5383)"
+       inkscape:export-filename="/home/supreeth/Documents/Projects/wikitrack-kannada/wikitrack_header_title.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3337-3"><rect
+           id="rect3339-7"
+           width="303.34882"
+           height="62.225395"
+           x="649.83112"
+           y="805.58191"
+           style="fill:#333333" /></flowRegion><flowPara
+         id="flowPara3341-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">Wikitrack</flowPara></flowRoot>    <rect
+       style="fill:#ececec;fill-opacity:1;stroke:#999999;stroke-width:0.10000000000000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.99537036000000001;stroke-dasharray:none"
+       id="rect3508"
+       width="494.97473"
+       height="115.96552"
+       x="1393.0004"
+       y="509.30417" />
+  </g>
+</svg>
